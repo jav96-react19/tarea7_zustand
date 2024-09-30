@@ -23,7 +23,7 @@
          - useRef --> Obtiene la referencia del logro y solo cambiará 
             cuando sea completamente distinta al nuevo valor del logro.
 
-         - useEffect --> Actualización dinámica cuando cambie el mensaje despues de 0.6 segundos
+         - useEffect --> Actualización dinámica cuando cambie el mensaje después de 0.6 segundos
 
 <br/>
 
