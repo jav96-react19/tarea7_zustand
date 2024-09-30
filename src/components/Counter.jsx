@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Minus, Plus } from 'lucide-react';
 import { Toaster } from 'sonner'
 import useStore from "@/store/useCounter.jsx"
-import {useShallow} from "zustand/shallow"
+import { useShallow } from 'zustand/react/shallow'
 import useAchievementMessage from '@/hooks/useAchievementMessage.jsx';
 
 const Counter = () => 
