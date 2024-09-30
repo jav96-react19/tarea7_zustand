@@ -1,0 +1,22 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    background: linear-gradient(to right, #1e3a8a, #1e40af, #1d4ed8, #2563eb);
+}
+main
+{
+    padding: 0px 4rem;
+    margin:2rem auto 0;
+    width:630px;
+    min-height: 100vh;
+}
+
+@media only screen and (max-width: 630px){
+    main
+    {
+        width:100%;
+    }
+}
